@@ -1,0 +1,1 @@
+alias st='git status'alias di='git diff --staged'alias co='git commit -m'alias ad='git add'alias ch='git checkout'alias pu='git push origin `git symbolic-ref --short HEAD`'alias dif='git diff'alias pull='git pull'alias gl='git log'alias ch='git checkout'alias reset='git reset --hard'alias rebase='git rebase -i'alias br='git branch'
